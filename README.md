@@ -9,6 +9,12 @@ The gaming industry is certainly one of the thriving industries of the modern ag
 ## Evaluation
 The leaderboard is evaluated using RMSE for the participant’s submission.
 
+## Tools used
+**Google Colab/Python for programming
+**sklearn,numpy,scipy.matplotlib,seaborn libraries 
+**GBOOST & LIGHTGBM
+
+
 ## Result
 
 **Rank 13th Out of 230 Participants/Teams**
