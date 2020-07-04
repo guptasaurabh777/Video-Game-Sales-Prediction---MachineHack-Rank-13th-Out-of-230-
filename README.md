@@ -9,7 +9,7 @@ The gaming industry is certainly one of the thriving industries of the modern ag
 ## Evaluation
 The leaderboard is evaluated using RMSE for the participant’s submission.
 
-Result
+## Result
 
 **Rank 13th Out of 230 Participants/Teams**
  
