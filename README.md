@@ -9,6 +9,9 @@ The gaming industry is certainly one of the thriving industries of the modern ag
 ## Evaluation
 The leaderboard is evaluated using RMSE for the participant’s submission.
 
+## Result
+**Rank 13th Out of 230 Participants/Teams**
+
 ## Methodology Used
 <ol>
   <li>Data Import Using Pandas</li>
@@ -25,7 +28,5 @@ The leaderboard is evaluated using RMSE for the participant’s submission.
 </ol> 
 
 
-## Result
 
-**Rank 13th Out of 230 Participants/Teams**
  
