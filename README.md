@@ -9,10 +9,18 @@ The gaming industry is certainly one of the thriving industries of the modern ag
 ## Evaluation
 The leaderboard is evaluated using RMSE for the participant’s submission.
 
+## Methodology Used
+<ol>
+  <li>Data Import Using Pandas</li>
+  <li>Data Cleaning</li>
+  <li>Feature Engineering</li>
+  <li>Modelling and Ensemble Using XGBoost ,LightGBM and K-Fold cross validation</li>
+</ol> 
+
 ## Tools used
 <ol>
   <li>Google Colab/Python for programming</li>
-  <li>sklearn,numpy,scipy.matplotlib,seaborn libraries</li>
+  <li>sklearn,numpy,scipy.matplotlib,seaborn.pandas libraries</li>
   <li>XGboost & LightGBM</li>
 </ol> 
 
