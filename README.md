@@ -13,7 +13,7 @@ The leaderboard is evaluated using RMSE for the participant’s submission.
 <ol>
   <li>Google Colab/Python for programming</li>
   <li>sklearn,numpy,scipy.matplotlib,seaborn libraries</li>
-  <li>GBOOST & LIGHTGBM</li>
+  <li>XGboost & LightGBM</li>
 </ol> 
 
 
