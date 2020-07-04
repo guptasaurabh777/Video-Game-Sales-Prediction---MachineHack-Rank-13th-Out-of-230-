@@ -10,9 +10,11 @@ The gaming industry is certainly one of the thriving industries of the modern ag
 The leaderboard is evaluated using RMSE for the participant’s submission.
 
 ## Tools used
-1 Google Colab/Python for programming
-2 sklearn,numpy,scipy.matplotlib,seaborn libraries 
-3 GBOOST & LIGHTGBM
+<ol>
+  <li>Google Colab/Python for programming</li>
+  <li>sklearn,numpy,scipy.matplotlib,seaborn libraries</li>
+  <li>GBOOST & LIGHTGBM</li>
+</ol> 
 
 
 ## Result
