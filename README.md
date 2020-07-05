@@ -22,7 +22,7 @@ The leaderboard is evaluated using RMSE for the participant’s submission.
 
 ## Tools used
 <ol>
-  <li>Google Colab/Python for programming</li>
+  <li>Google Colab</li>
   <li>sklearn,numpy,scipy.matplotlib,seaborn.pandas libraries</li>
   <li>XGboost & LightGBM</li>
 </ol> 
